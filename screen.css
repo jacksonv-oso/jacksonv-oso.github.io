@@ -15,7 +15,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
+  font: italic;
   vertical-align: baseline; }
 
 body {
@@ -29,7 +29,7 @@ table {
   border-spacing: 0; }
 
 caption, th, td {
-  text-align: center ;
+  text-align: left ;
   font-weight: normal;
   vertical-align: middle; }
 
@@ -46,7 +46,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
   display: block; }
 
 body {
-  font-family: italic;
+  font-family: sans-serif;
   color: 	#009ce0; }
 
 a {
