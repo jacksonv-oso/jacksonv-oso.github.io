@@ -15,7 +15,7 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: italic;
+  font: sans-serif;
   vertical-align: baseline; }
 
 body {
@@ -56,6 +56,11 @@ p {
   color:#da680f;
   a:hover {
     color: #009ce0; }
+}
+h2 {
+  color:#da680f;
+  a:hover {
+  color:#da680f; }
 }
 
 #main { background-color: #aaa9ad;}
