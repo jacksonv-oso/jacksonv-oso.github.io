@@ -63,4 +63,9 @@ h2 {
   color:#da680f; }
 }
 
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
 #main { background-color: #aaa9ad;}
