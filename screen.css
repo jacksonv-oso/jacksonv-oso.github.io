@@ -93,3 +93,7 @@ body {
   color: black;
   text-align: center;
 }
+#jumbotron {
+  background-color: aquamarine;
+  color: black;
+}

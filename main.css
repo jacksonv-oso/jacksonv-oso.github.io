@@ -1,0 +1,35 @@
+
+  .center {
+    float: left;
+    width:60%;
+    border: 3px solid #da680f;
+    padding: 10px;
+  }
+  
+  .right {
+    float: right;
+    width: 300px;
+    border: 3px solid #da680f;
+    padding: 10px;
+  }
+  
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #da680f;
+    color: black;
+    text-align: center;
+  }
+  #jumbotron-custom {
+    background-color:#da680f;
+    
+  }
+  body {
+	background-image: url("745754.png");
+
+}
+h2 {
+    text-decoration: underline;
+  }

@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
         document.getElementById("mainHeader").onclick = function () {
-          this.style.color='red' ;
+          this.style.color='aquamarine' ;
         }
       })
 $( document ).ready(function() {
