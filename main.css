@@ -23,11 +23,14 @@
     text-align: center;
   }
   #jumbotron-custom {
-    background-color:#da680f;
+    background:linear-gradient(212deg, rgba(2,0,36,1) 0%, rgba(161,79,28,1) 0%, rgba(159,80,31,1) 0%, rgba(144,93,53,1) 39%, rgba(131,104,71,1) 46%, rgba(121,112,84,1) 47%, rgba(120,113,86,1) 52%, rgba(111,120,98,1) 53%, rgba(99,130,115,1) 60%, rgba(97,132,119,1) 61%, rgba(0,212,255,1) 100%);
+
+    /* background-color:#da680f; */
     
   }
   body {
-	background-image: url("745754.png");
+    background: linear-gradient(212deg, rgba(2,0,36,1) 0%, rgba(161,79,28,1) 0%, rgba(159,80,31,1) 0%, rgba(144,93,53,1) 39%, rgba(131,104,71,1) 46%, rgba(121,112,84,1) 47%, rgba(120,113,86,1) 52%, rgba(111,120,98,1) 53%, rgba(99,130,115,1) 60%, rgba(97,132,119,1) 61%, rgba(0,212,255,1) 100%);
+	/* background-image: url("745754.png"); */
 
 }
 h2 {
